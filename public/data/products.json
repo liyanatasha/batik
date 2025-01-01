@@ -1,0 +1,94 @@
+{
+    "fashion": [
+        {
+            "id": 1,
+            "name": "Batik Tote Bag",
+            "price": 30.00,
+            "description": "Carry style with you! This spacious and durable tote combines traditional batik patterns with modern functionality.",
+            "image": "https://i.imgur.com/K3xUQiv.png"
+        },
+        {
+            "id": 2,
+            "name": "Rattan Handbag with Batik Trim",
+            "price": 50.00,
+            "description": "Make a statement with this one-of-a-kind handbag. A perfect blend of rustic rattan and vibrant batik details.",
+            "image": "https://i.imgur.com/VeHeu5y.png"
+        },
+        {
+            "id": 3,
+            "name": "Batik Hair Accessories",
+            "price": 15.00,
+            "description": "From chic headbands to playful scrunchies, these accessories bring a pop of batik charm to your everyday look.",
+            "image": "https://i.imgur.com/pUrRXUF.png"
+        }
+    ],
+    "decor": [
+        {
+            "id": 4,
+            "name": "Rattan Basket Set",
+            "price": 60.00,
+            "description": "Declutter in style! These handwoven baskets are practical, durable, and oh-so-beautiful for every corner of your home.",
+            "image": "https://i.imgur.com/nj4yQnX.png"
+        },
+        {
+            "id": 5,
+            "name": "Batik Table Runner",
+            "price": 35.00,
+            "description": "Brighten up your dining table with this vibrant batik runner, adding a perfect cultural touch to any meal setting.",
+            "image": "https://i.imgur.com/7WqEz4d.png"
+        },
+        {
+            "id": 6,
+            "name": "Rattan Serving Tray with Batik Accents",
+            "price": 40.00,
+            "description": "Impress your guests with this stunning tray, blending natural rattan with elegant batik patterns.",
+            "image": "https://i.imgur.com/recoPNS.png"
+        }
+    ],
+    "lifestyle": [
+        {
+            "id": 7,
+            "name": "Rattan & Batik Keychains",
+            "price": 10.00,
+            "description": "Carry a piece of art with you. These handmade keychains are small but full of charm and tradition.",
+            "image": "https://i.imgur.com/1vEO7AT.png"
+        },
+        {
+            "id": 8,
+            "name": "Batik Journal with Rattan Binding",
+            "price": 20.00,
+            "description": "Perfect for your thoughts or sketches, this journal is as artistic as the ideas you’ll jot inside.",
+            "image": "https://i.imgur.com/eyxtWFk.png"
+        },
+        {
+            "id": 9,
+            "name": "Batik Picnic Mat with Rattan Strap",
+            "price": 50.00,
+            "description": "Take your picnics up a notch with this stylish mat, easy to carry and perfect for outdoor fun.",
+            "image": "https://i.imgur.com/u8GY0ae.png"
+        }
+    ],
+    "gifts": [
+        {
+            "id": 10,
+            "name": "Tea Lover’s Set",
+            "price": 45.00,
+            "description": "Delight tea lovers with this beautifully curated set, featuring batik coasters and a rattan tray for the perfect tea ritual.",
+            "image": "https://i.imgur.com/iTF137w.png"
+        },
+        {
+            "id": 11,
+            "name": "Self-Care Hamper",
+            "price": 60.00,
+            "description": "Pamper yourself or a loved one with this thoughtful collection of batik headbands, artisanal soaps, and candles.",
+            "image": "https://i.imgur.com/WlngMnW.png"
+        },
+        {
+            "id": 12,
+            "name": "Picnic Basket Bundle",
+            "price": 70.00,
+            "description": "A complete picnic experience, including a handwoven rattan basket, batik napkins, and elegant tableware.",
+            "image": "https://i.imgur.com/Wp70J7u.png"
+        }
+    ]
+}
