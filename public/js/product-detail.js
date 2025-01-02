@@ -19,11 +19,11 @@ document.addEventListener("DOMContentLoaded", () => {
             });
     };
 
-    if (category) {
-        backButton.href = `${category}.html`;
-    } else {
-        backButton.href = "homepage.html";
-    }
+    // Set back button functionality
+    backButton.addEventListener("click", () => {
+        const backLink = category ? `${category}.html` : "homepage.html";
+        window.location.href = backLink;
+    });
 
     fetch(`/products/${productId}`)
         .then(response => response.json())
